@@ -1,0 +1,14 @@
+[
+  {
+    "package": "disttools",
+    "oncran": true
+  },
+  {
+    "package": "documenter",
+    "oncran": true
+  },
+  {
+    "package": "pubtatordb",
+    "oncran": true
+  }
+]
