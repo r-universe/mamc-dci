@@ -8,6 +8,3 @@
 [submodule "documenter"]
 	path = documenter
 	url = https://github.com/mamc-dci/documenter
-[submodule "pubtatordb"]
-	path = pubtatordb
-	url = https://github.com/mamc-dci/pubtatordb
